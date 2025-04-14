@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakshitha HN
 - 👀 I’m interested in Web development frontend backend development and exploring new technologies
-- 🌱 I’m currently learning: HTML,CSS,Javascript,MySQL,XAMPP,and Flask
+- 🌱 I’m currently learning: HTML,CSS,Javascript,mongodb,react.js,node.js,express.js,MySQL,XAMPP,and Flask
 - 💞️ I’m looking to collaborate on :I enjoy-friendly web development projects and open source contribution
 - 📫 How to reach me :rakshithahn123@gmail.com
 - 😄 Pronouns: She/Her
