@@ -15,7 +15,7 @@ Hi there 👋 I'm Rakshitha HN
 - LinkedIn: [rakshitha-hn-a14124327](https://www.linkedin.com/in/rakshitha-hn-a14124327/)  
 
 *💼 GitHub Stats:*  
-![Rakshitha's GitHub Stats](rakshu112003github@com)
+![Rakshitha's GitHub Stats](https://github.com/rakshu112003)
 
 
 
