@@ -1,22 +1,36 @@
+✨ Hey there! I'm Rakshitha HN ✨
 
-Hi there 👋 I'm Rakshitha HN
+🌟 **Aspiring Full Stack Developer** | 💡 Quick Learner | 💻 Passionate Coder  
+🛠️ **Tech Stack:**  
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `MySQL` `Flask`
 
-🚀 Aspiring Full Stack Developer  
-🎯 Skilled in HTML, CSS, JavaScript, React.js, Node.js, MongoDB, MySQL, Flask  
+### 🎯 Goals
+- 🚧 Build real-world MERN projects  
+- 🎓 Improve interview skills and DSA  
+- 🌐 Freelance and internship experience  
+- 🤝 Contribute to open-source  
 
-*🌱 Currently Working On:*  
-- Building real-world web development projects  
-- Preparing for internships and freelance work  
-- Improving communication and problem-solving skills  
-- Practicing DSA and interview questions  
+### 📬 Connect With Me
+- 📧 Email: **rakshug73@gmail.com**  
+- 💼 LinkedIn: [Rakshitha HN](https://www.linkedin.com/in/rakshitha-hn-a14124327/)  
+- 📑 [View My Resume](https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk)
 
-*📫 Contact Me:*  
-- Gmail: rakshug73@gmail.com  
-- LinkedIn: [rakshitha-hn-a14124327](https://www.linkedin.com/in/rakshitha-hn-a14124327/)  
+### 🚀 Live Projects on Vercel
 
-*💼 GitHub Stats:*  
-![Rakshitha's GitHub Stats](https://github.com/rakshu112003)
-Resume https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk
+🔗 [rakshu112003's Deployed Projects](https://vercel.com/rakshu112003s-projects)
 
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical" />
+</p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakshu112003&theme=radical" />
+</p>
+### 🧮 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical" />
+</p>
 
+🫶 _Let’s grow together in tech! Feel free to check out my projects and connect with me._
