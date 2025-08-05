@@ -16,6 +16,7 @@ Hi there 👋 I'm Rakshitha HN
 
 *💼 GitHub Stats:*  
 ![Rakshitha's GitHub Stats](https://github.com/rakshu112003)
+Resume https://rrb.digialm.com/EForms/loginAction.do?subAction=ViewLoginPage&formId=95125&orgId=2667
 
 
 
