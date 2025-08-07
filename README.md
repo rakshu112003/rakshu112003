@@ -1,4 +1,5 @@
-✨ Hey there! I'm Rakshitha HN ✨</h1>
+h1 align="center">✨ Hey there! I'm Rakshitha HN ✨</h1>
+
 <p align="center">
   🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 </p>
@@ -13,20 +14,20 @@
 
 ### 🔥 About Me
 
-- 🚀 I'm currently working on a **MERN Stack Web Application** – building a complete full-stack project using React, Node.js, Express, and MongoDB  
-- 🔁 Learning **Advanced React (Hooks, Redux)**, **JWT Authentication**, and **REST APIs**  
-- 💬 Ask me about: **MERN stack, JavaScript, Python, or SQL**  
-- 🧠 Focused on improving coding skills through hands-on projects  
-- 🤝 Open to internships, freelance work, and tech collaborations  
+- 🚀 I'm currently working on a **MERN Stack Web Application**
+- 🔁 Learning **Advanced React**, **JWT Auth**, and **REST APIs**
+- 💬 Ask me about: **JavaScript, MERN Stack, Python, SQL**
+- 🧠 Focused on improving skills through real-world projects
+- 🤝 Open to internships, freelance work, and collaboration
 
 ---
 
 ### 🎯 Goals
 
-- ✅ Build real-world MERN projects  
-- ✅ Improve interview skills and DSA  
-- ✅ Gain freelance and internship experience  
-- ✅ Contribute to open-source  
+- ✅ Build and deploy MERN projects
+- ✅ Learn Data Structures & Algorithms
+- ✅ Gain freelance and internship experience
+- ✅ Contribute to open-source
 
 ---
 
@@ -34,8 +35,7 @@
 
 - 📧 Email: [rakshuy73@gmail.com](mailto:rakshuy73@gmail.com)  
 - 💼 LinkedIn: [Rakshitha HN](https://www.linkedin.com/in/rakshitha-hn-a1a142437)  
-- 📄 Resume: [View My Resume](#) *(update link if needed)*  
-- 🔗 Live Projects: [rakshu112003's Deployed Projects](https://github.com/rakshu112003?tab=repositories)  
+- 🔗 Projects: [rakshu112003's GitHub](https://github.com/rakshu112003?tab=repositories)  
 
 ---
 
@@ -63,17 +63,6 @@
 ![Rakshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical)
-
----
-
-### 📌 Pinned Projects
-
-- 🔹 [Type-speed-test](https://github.com/rakshu112003/Type-speed-test) – HTML  
-- 🔹 [Custom-notification-app](https://github.com/rakshu112003/Custom-notification-app) – CSS  
-- 🔹 [Expenses-tracker-with-budget-alert](https://github.com/rakshu112003/Expenses-tracker-with-budget-alert) – HTML  
-- 🔹 [E-learning-medical-assistance](https://github.com/rakshu112003/E-learning-medical-assistance) – HTML  
-- 🔹 [Resume-builder-web-app](https://github.com/rakshu112003/Resume-builder-web-app) – HTML  
-- 🔹 [Rakshu-portfolio](https://github.com/rakshu112003/Rakshu-portfolio) – HTML  
 
 ---
 
