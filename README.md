@@ -32,7 +32,7 @@
 
 ### 🌐 Connect with Me
 
-- 📧 Email: [rakshu73@gmail.com](mailto:rakshuy73@gmail.com)  
+- 📧 Email: [rakshug73@gmail.com](mailto:rakshuy73@gmail.com)  
 - 💼 LinkedIn: [Rakshitha HN](https://www.linkedin.com/in/rakshitha-hn-a1a142437)  
 - 🔗 Projects: [rakshu112003's GitHub](https://github.com/rakshu112003?tab=repositories)  
 - 📄 Resume: [Click to View My Resume](https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk)
