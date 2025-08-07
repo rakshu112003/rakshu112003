@@ -1,5 +1,4 @@
-h1 align="center">✨ Hey there! I'm Rakshitha HN ✨</h1>
-
+✨ Hey there! I'm Rakshitha HN ✨
 <p align="center">
   🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 </p>
