@@ -1,4 +1,5 @@
-✨ Hey there! I'm Rakshitha HN ✨</h1>
+h1 align="center">✨ Hey there! I'm Rakshitha HN ✨</h1>
+
 <p align="center">
   🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 </p>
@@ -35,6 +36,7 @@
 - 📧 Email: [rakshuy73@gmail.com](mailto:rakshuy73@gmail.com)  
 - 💼 LinkedIn: [Rakshitha HN](https://www.linkedin.com/in/rakshitha-hn-a1a142437)  
 - 🔗 Projects: [rakshu112003's GitHub](https://github.com/rakshu112003?tab=repositories)  
+- 📄 Resume: [Click to View My Resume](https://your-resume-link-here.com)
 
 ---
 
