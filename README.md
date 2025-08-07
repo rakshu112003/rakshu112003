@@ -33,7 +33,7 @@
 ### 🌐 Connect with Me
 
 - 📧 Email: [rakshithahn123@gmail.com](mailto:rakshithahn123@gmail.com)  
-- 💼 LinkedIn: [Rakshitha HN]( in/rakshitha-hn-a14124327
+- 💼 LinkedIn: https://www.linkedin.com/in/rakshitha-hn-a14124327
 - 🔗 Projects: [rakshu112003's GitHub](https://github.com/rakshu112003?tab=repositories)  
 - 📄 Resume: [Click to View My Resume](https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk)
 
