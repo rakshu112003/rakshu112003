@@ -1,4 +1,5 @@
-✨ Hey there! I'm Rakshitha HN ✨</h1>
+h1 align="center">✨ Hey there! I'm Rakshitha HN ✨</h1>
+
 <p align="center">
   🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 </p>
@@ -32,7 +33,7 @@
 
 ### 🌐 Connect with Me
 
-- 📧 Email: [rakshithahn123@gmail.com](mailto:rakshuy73@gmail.com)  
+- 📧 Email: [rakshithahn123@gmail.com](mailto:rakshithahn123@gmail.com)  
 - 💼 LinkedIn: [Rakshitha HN](https://www.linkedin.com/in/rakshitha-hn-a1a142437)  
 - 🔗 Projects: [rakshu112003's GitHub](https://github.com/rakshu112003?tab=repositories)  
 - 📄 Resume: [Click to View My Resume](https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk)
@@ -67,6 +68,3 @@
 ---
 
 <p align="center">✨ Thank you for visiting my GitHub! ✨</p>
-
-
----
