@@ -1,4 +1,4 @@
->✨ Hey there! I'm Rakshitha HN ✨</h1>
+✨ Hey there! I'm Rakshitha HN ✨</h1>
 <p align="center">
   🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 </p>
