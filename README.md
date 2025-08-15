@@ -1,4 +1,4 @@
-# ✨ Hey there! I'm Rakshitha HN ✨
+✨ Hey there! I'm Rakshitha HN ✨
 🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder  
 
 ---
@@ -22,6 +22,13 @@
 ✅ Learn Data Structures & Algorithms  
 ✅ Gain freelance and internship experience  
 ✅ Contribute to open-source  
+
+---
+
+## 📄 Resume  
+<a href="https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>  
 
 ---
 
