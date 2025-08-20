@@ -13,7 +13,7 @@
 - 📚 Learning Advanced React, JWT Auth, and REST APIs  
 - 💬 Ask me about: JavaScript, MERN Stack, Python, SQL, PHP  
 - 🎯 Focused on improving skills through real-world projects  
-- 🤝 Open to internships, freelance work, and collaboration  
+- 🤝 Open to  freelance work, and collaboration  
 
 ---
 
