@@ -69,9 +69,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical)  
 
+![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rakshu112003&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical)
 ---
 
 ✨ Thank you for visiting my GitHub! ✨
