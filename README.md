@@ -70,11 +70,7 @@
 
 ## 📊 GitHub Stats  
 
-![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rakshu112003&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical)
----
+ https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/rakshu112003
+[9/19, 10:24 AM] Rakshitha Gowda: https://github-readme-streak-stats.herokuapp.com/?user=rakshu112003&theme=radical&cache_seconds=86400)](https://github.com/rakshu112003
 
 ✨ Thank you for visiting my GitHub! ✨
