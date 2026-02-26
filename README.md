@@ -1,77 +1,54 @@
-✨ Hey there! I'm Rakshitha HN ✨
-🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder  
+🌱 Aspiring Full Stack Developer | 🚀 Quick Learner | 💻 Passionate Coder
 
 ---
 
-## 💻 Tech Stack  
-- HTML • CSS • JavaScript • React.js • Node.js • Express.js • MongoDB • MySQL • Flask • PHP • SQL • TypeScript  
+## 💻 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React.js • TypeScript  
+**Backend:** Node.js • Express.js • Flask • PHP  
+**Database:** MongoDB • MySQL • SQL  
 
 ---
 
-## 🔥 About Me  
-- 🌱 I'm currently working on a MERN Stack Web Application  
-- 📚 Learning Advanced React, JWT Auth, and REST APIs  
+## 🔥 About Me
+- 🌱 Currently working on a **MERN Stack Web Application**  
+- 📚 Learning **Advanced React**, **JWT Authentication**, and **REST APIs**  
 - 💬 Ask me about: JavaScript, MERN Stack, Python, SQL, PHP  
-- 🎯 Focused on improving skills through real-world projects  
-- 🤝 Open to  freelance work, and collaboration  
+- 🎯 Focused on improving skills through **real-world projects**  
+- 🤝 Open to **freelance work and collaboration**  
 
 ---
 
-## 🎯 Goals  
-✅ Build and deploy MERN projects  
-✅ Learn Data Structures & Algorithms  
-✅ Gain freelance and internship experience  
-✅ Contribute to open-source  
+## 🎯 Goals
+- ✅ Build and deploy **MERN projects**  
+- ✅ Learn **Data Structures & Algorithms**  
+- ✅ Gain **freelance and internship experience**  
+- ✅ Contribute to **open-source projects**
 
 ---
 
-## 📄 Resume  
-<a href="https://drive.google.com/file/d/1TEbfB7iiy5aIR2gtIRb3GpTWwZIqQBAA/view?usp=drivesdk" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>  
+## 📄 Resume
+👉 [Download My Resume](https://drive.google.com/file/d/1oOITsemXNRroe-xh47xekK18VVtQ_a9B/view?usp=drivesdk)
 
 ---
 
-## 🌐 Connect with Me  
-
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rakshitha-hn-a14124327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/profile/rakshithahn123" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://dev.to/" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
+## 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/rakshitha-hn-a14124327/) | [GitHub](https://github.com/rakshu112003)
 
 ---
 
-## 🛠 Languages and Tools  
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>
+## 🛠 Languages and Tools
+HTML • CSS • JavaScript • React.js • Node.js • Express.js • MongoDB • MySQL • Flask • PHP • SQL • TypeScript  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
- https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical&cache_seconds=86400
- https://github-readme-streak-stats.herokuapp.com/?user=rakshu112003&theme=radical&cache_seconds=86400
- https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical&cache_seconds=86400
+![Rakshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshu112003&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-✨ Thank you for visiting my GitHub! ✨
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakshu112003&theme=radical&hide_border=false&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshu112003&layout=compact&theme=radical&hide_border=false&langs_count=10&cache_seconds=86400)
+
+---
+
+✨ Thank you for visiting my GitHub!
