@@ -48,8 +48,18 @@ Full stack job portal with role-based login, job posting, and applications.
 ### 🧠 Quiz App
 Interactive quiz application with timer and score tracking.
 
-### 💰 Expense Tracker
-Personal finance tracker with charts and transaction history.
+### 💰 Expense Tracker App (Full Stack)
+A full-stack web application to track income and expenses and manage personal finances efficiently.
+
+**Features:**
+- Add income and expense transactions
+- Categorize transactions (Food, Travel, Bills, etc.)
+- View balance summary (Income vs Expense)
+- Delete and manage transactions
+- Responsive UI for mobile and desktop
+- Data stored securely in database
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
