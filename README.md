@@ -67,7 +67,7 @@ Personal finance tracker with charts and transaction history.
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn](YOUR-LINKEDIN-LINK) | [GitHub](https://github.com/rakshu112003)
+[LinkedIn](https://www.linkedin.com/in/rakshitha-hn-a14124327) | [GitHub](https://github.com/rakshu112003)
 
 ---
 
