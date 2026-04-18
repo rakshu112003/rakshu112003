@@ -56,7 +56,7 @@ A full-stack job portal application where users can search and apply for jobs, a
 - Secure REST APIs with Node.js & Express
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
-deploy Link:
+deploy Link:job-portal-mern-stack-gamma.vercel.app
 
 ### 🧠 Quiz App
 Interactive quiz application with timer and score tracking.
