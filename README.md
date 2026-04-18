@@ -42,8 +42,21 @@ I am actively improving my skills in system design, authentication (JWT), and ba
 ### 🏠 RoomEase – Room Booking App
 MERN stack application for booking rooms with admin dashboard and authentication.
 
-### 💼 Job Portal App
-Full stack job portal with role-based login, job posting, and applications.
+
+### 💼 Job Portal App (MERN Stack)
+
+A full-stack job portal application where users can search and apply for jobs, and employers can post job listings.
+
+**Features:**
+- User authentication (JWT login/signup)
+- Role-based access (Admin / User)
+- Post and manage job listings
+- Apply for jobs and track applications
+- Search and filter jobs
+- Secure REST APIs with Node.js & Express
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
+deploy Link:
 
 ### 🧠 Quiz App
 Interactive quiz application with timer and score tracking.
