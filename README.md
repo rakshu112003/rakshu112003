@@ -62,7 +62,7 @@ Personal finance tracker with charts and transaction history.
 ---
 
 ## 📄 Resume
-👉 [Download My Resume](YOUR-RESUME-LINK-HERE)
+👉 [Download My Resume](https://drive.google.com/file/d/1RYNPPeELiSb_PNLFRnnuOGO3TmWyvnB1/view?usp=drivesdk)
 
 ---
 
