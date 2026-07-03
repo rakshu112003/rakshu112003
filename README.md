@@ -47,13 +47,51 @@ MERN stack application for booking rooms with admin dashboard and authentication
 
 A full-stack job portal application where users can search and apply for jobs, and employers can post job listings.
 
-**Features:**
-- User authentication (JWT login/signup)
-- Role-based access (Admin / User)
-- Post and manage job listings
-- Apply for jobs and track applications
-- Search and filter jobs
-- Secure REST APIs with Node.js & Express
+Features
+
+Job Management
+
+- Add new jobs
+- Update existing jobs
+- Delete jobs
+- View all job listings
+
+Search & Filter
+
+- Search by job title
+- Search by company
+- Filter by city
+- Sort by newest
+- Sort by salary (High → Low)
+- Sort by salary (Low → High)
+- Sort alphabetically
+
+User Features
+
+- Save/Favorite jobs
+- Apply button
+- Pagination
+- Responsive design
+
+Dashboard
+
+- Total jobs
+- Total companies
+- Total cities
+- Saved jobs count
+- Highest salary
+- Average salary
+- Jobs by city chart
+- Jobs by company chart
+- City distribution pie chart
+
+Additional Features
+
+- Form validation
+- Loading spinner
+- Toast notifications
+- CSV Export
+- Local Storage support
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 Frontend:https://job-portal-application-hnk8-phi.vercel.app/
