@@ -58,6 +58,7 @@ A full-stack job portal application where users can search and apply for jobs, a
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 Frontend:https://job-portal-application-hnk8-phi.vercel.app/
 backend:https://job-portal-application-5-tc2n.onrender.com
+https://job-portal-application-5-tc2n.onrender.com/api/jobs
 
 ### 🧠 Quiz App
 Interactive quiz application with timer and score tracking.
